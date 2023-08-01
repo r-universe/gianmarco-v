@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bootCT"]
-	path = bootCT
-	url = https://github.com/cran/bootCT
 [submodule "SIRE"]
 	path = SIRE
 	url = https://github.com/cran/SIRE
+[submodule "bootCT"]
+	path = bootCT
+	url = https://github.com/cran/bootCT
